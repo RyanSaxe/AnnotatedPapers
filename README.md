@@ -2,6 +2,10 @@
 
 Repository to hold papers I am reading and my comments on them. Papers are organized into folders named by the ML subfields most relevant to them.
 
+## Application
+
+[Drawboard](https://www.drawboard.com/pdf/) is the application I use for annotating PDFs.
+
 ## Color Code
 
 In all the annotated papers, I will highlight text and write comments according to the following color code:
