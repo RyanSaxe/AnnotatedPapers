@@ -1,6 +1,8 @@
 # AnnotatedPapers
 
-Repository to hold papers I am reading and my comments on them. Papers are organized into folders named by the ML subfields most relevant to them. The only exception to this is the `READ` folder, which contains papers I am reading or have already read. If I intend to annotate a paper, it will move from this folder to the corresponding `[subfield]/backlog/` folder.
+You can also view all the papers I have annotated [on my website](https://www.ryansaxe/com#annotated-papers).
+
+The purpose of this repository is to hold papers I am reading and papers I have read. And I provide in depth annotations to a subset of these papers. Non-annotated papers are in the `READ` folder, and annotated papers are organized into folders named by the ML subfields most relevant to them.
 
 ## Application
 
